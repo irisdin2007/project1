@@ -1,1 +1,2 @@
 print("hfgd")
+print("тест")
